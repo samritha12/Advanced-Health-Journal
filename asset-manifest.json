@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advanced-Health-Journal/static/css/main.5e448ce1.css",
+    "main.js": "/Advanced-Health-Journal/static/js/main.f6adada2.js",
+    "static/js/453.f43ed925.chunk.js": "/Advanced-Health-Journal/static/js/453.f43ed925.chunk.js",
+    "index.html": "/Advanced-Health-Journal/index.html",
+    "main.5e448ce1.css.map": "/Advanced-Health-Journal/static/css/main.5e448ce1.css.map",
+    "main.f6adada2.js.map": "/Advanced-Health-Journal/static/js/main.f6adada2.js.map",
+    "453.f43ed925.chunk.js.map": "/Advanced-Health-Journal/static/js/453.f43ed925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e448ce1.css",
+    "static/js/main.f6adada2.js"
+  ]
+}
